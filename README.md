@@ -1,2 +1,3 @@
 # linktree
-![Texto Alternativo]([https://github.com/depaulatiago/CompApp/blob/main/mobile1.jpg?raw=true](https://github.com/depaulatiago/linktree/blob/main/linketree.jpg?raw=true)https://github.com/depaulatiago/linktree/blob/main/linketree.jpg?raw=true)
+![image](https://github.com/depaulatiago/linktree/assets/56747440/4ab29e2f-60bf-48fe-81af-90bd3d7f6bb0)
+
